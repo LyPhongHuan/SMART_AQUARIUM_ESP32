@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=R2 Old Footprint=RES-SMD-0805 New Footprint=RES-1/4W
+Change Component Footprint: Designator=R5 Old Footprint=RES-SMD-0805 New Footprint=RES-1/4W
+Change Component Footprint: Designator=R17 Old Footprint=RES-SMD-0805 New Footprint=RES-1/4W
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RES-SMD-0805"; UniqueID = "\JZXHFLLF" ("\JZXHFLLF")
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RES-SMD-0805"; UniqueID = "\VFMGAHSP" ("\VFMGAHSP")
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RES-SMD-0805"; UniqueID = "\OENJGIPS" ("\OENJGIPS")
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"

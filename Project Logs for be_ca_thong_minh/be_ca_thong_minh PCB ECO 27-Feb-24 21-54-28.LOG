@@ -1,0 +1,4 @@
+Added Component: Designator=R22(photoresistor)
+Added Pin To Net: NetName=+3.3V Pin=R22-1
+Added Pin To Net: NetName=NetR21_2 Pin=R22-2
+Added Member To Class: ClassName=be_ca_thong_minh Member=Component R22 Photoresistor
